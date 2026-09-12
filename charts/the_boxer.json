@@ -1,0 +1,383 @@
+{
+  "title": "The Boxer",
+  "artist": "Simon & Garfunkel",
+  "spotifyTrackId": null,
+  "source": "remote-pack",
+  "lines": [
+    {
+      "startMs": 0,
+      "endMs": 4000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 4000,
+      "endMs": 8000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 8000,
+      "endMs": 12000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 12000,
+      "endMs": 16000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 16000,
+      "endMs": 20000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 20000,
+      "endMs": 24000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 24000,
+      "endMs": 28000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 28000,
+      "endMs": 32000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 32000,
+      "endMs": 36000,
+      "chordLine": "Em     Am     G      C"
+    },
+    {
+      "startMs": 36000,
+      "endMs": 40000,
+      "chordLine": "Em     Am     G      C"
+    },
+    {
+      "startMs": 40000,
+      "endMs": 44000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 44000,
+      "endMs": 48000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 48000,
+      "endMs": 52000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 52000,
+      "endMs": 56000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 56000,
+      "endMs": 60000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 60000,
+      "endMs": 64000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 64000,
+      "endMs": 68000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 68000,
+      "endMs": 72000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 72000,
+      "endMs": 76000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 76000,
+      "endMs": 80000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 80000,
+      "endMs": 84000,
+      "chordLine": "Em     Am     G      C"
+    },
+    {
+      "startMs": 84000,
+      "endMs": 88000,
+      "chordLine": "Em     Am     G      C"
+    },
+    {
+      "startMs": 88000,
+      "endMs": 92000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 92000,
+      "endMs": 96000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 96000,
+      "endMs": 100000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 100000,
+      "endMs": 104000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 104000,
+      "endMs": 108000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 108000,
+      "endMs": 112000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 112000,
+      "endMs": 116000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 116000,
+      "endMs": 120000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 120000,
+      "endMs": 124000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 124000,
+      "endMs": 128000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 128000,
+      "endMs": 132000,
+      "chordLine": "Em     Am     G      C"
+    },
+    {
+      "startMs": 132000,
+      "endMs": 136000,
+      "chordLine": "Em     Am     G      C"
+    },
+    {
+      "startMs": 136000,
+      "endMs": 140000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 140000,
+      "endMs": 144000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 144000,
+      "endMs": 148000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 148000,
+      "endMs": 152000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 152000,
+      "endMs": 156000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 156000,
+      "endMs": 160000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 160000,
+      "endMs": 164000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 164000,
+      "endMs": 168000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 168000,
+      "endMs": 172000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 172000,
+      "endMs": 176000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 176000,
+      "endMs": 180000,
+      "chordLine": "Em     Am     G      C"
+    },
+    {
+      "startMs": 180000,
+      "endMs": 184000,
+      "chordLine": "Em     Am     G      C"
+    },
+    {
+      "startMs": 184000,
+      "endMs": 188000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 188000,
+      "endMs": 192000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 192000,
+      "endMs": 196000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 196000,
+      "endMs": 200000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 200000,
+      "endMs": 204000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 204000,
+      "endMs": 208000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 208000,
+      "endMs": 212000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 212000,
+      "endMs": 216000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 216000,
+      "endMs": 220000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 220000,
+      "endMs": 224000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 224000,
+      "endMs": 228000,
+      "chordLine": "Em     Am     G      C"
+    },
+    {
+      "startMs": 228000,
+      "endMs": 232000,
+      "chordLine": "Em     Am     G      C"
+    },
+    {
+      "startMs": 232000,
+      "endMs": 236000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 236000,
+      "endMs": 240000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 240000,
+      "endMs": 244000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 244000,
+      "endMs": 248000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 248000,
+      "endMs": 252000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 252000,
+      "endMs": 256000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 256000,
+      "endMs": 260000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 260000,
+      "endMs": 264000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 264000,
+      "endMs": 268000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 268000,
+      "endMs": 272000,
+      "chordLine": "Am     G      F      C"
+    },
+    {
+      "startMs": 272000,
+      "endMs": 276000,
+      "chordLine": "Em     Am     G      C"
+    },
+    {
+      "startMs": 276000,
+      "endMs": 280000,
+      "chordLine": "Em     Am     G      C"
+    },
+    {
+      "startMs": 280000,
+      "endMs": 284000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 284000,
+      "endMs": 288000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 288000,
+      "endMs": 292000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 292000,
+      "endMs": 296000,
+      "chordLine": "C      Am     G      F"
+    },
+    {
+      "startMs": 296000,
+      "endMs": 300000,
+      "chordLine": "Am     G      F      C"
+    }
+  ]
+}
