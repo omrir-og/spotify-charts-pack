@@ -1,0 +1,14 @@
+{
+  "title": "Wonderwall",
+  "artist": "Oasis",
+  "spotifyTrackId": null,
+  "source": "assets/charts/wonderwall.json",
+  "lines": [
+    { "startMs": 0, "endMs": 4000, "chordLine": "Em7   G     Dsus4  A7sus4" },
+    { "startMs": 4000, "endMs": 8000, "chordLine": "Em7   G     Dsus4  A7sus4" },
+    { "startMs": 8000, "endMs": 12000, "chordLine": "Cadd9 G     Dsus4  A7sus4" },
+    { "startMs": 12000, "endMs": 16000, "chordLine": "Em7   G     Dsus4  A7sus4" },
+    { "startMs": 16000, "endMs": 20000, "chordLine": "Cadd9 D     Em7   G" },
+    { "startMs": 20000, "endMs": 24000, "chordLine": "Cadd9 D     Em7   Em7" }
+  ]
+}

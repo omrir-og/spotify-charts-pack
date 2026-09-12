@@ -1,0 +1,9 @@
+# title: A Horse with No Name
+# artist: America
+
+00:00.000-00:04.000 | Em    D6/9
+00:04.000-00:08.000 | Em    D6/9
+[0:08] Em    D6/9
+[0:12] Em    D6/9
+[0:16] Em    D6/9
+[0:20] Em    D6/9

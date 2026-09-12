@@ -1,0 +1,13 @@
+{
+  "title": "Let It Be",
+  "artist": "The Beatles",
+  "spotifyTrackId": null,
+  "source": "assets/charts/let_it_be.json",
+  "lines": [
+    { "startMs": 0, "endMs": 4000, "chordLine": "C     G     Am    F" },
+    { "startMs": 4000, "endMs": 8000, "chordLine": "C     G     F     C" },
+    { "startMs": 8000, "endMs": 12000, "chordLine": "Am    G     F     C" },
+    { "startMs": 12000, "endMs": 16000, "chordLine": "C     G     Am    F" },
+    { "startMs": 16000, "endMs": 20000, "chordLine": "C     G     F     C" }
+  ]
+}

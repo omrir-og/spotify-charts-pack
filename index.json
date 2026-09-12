@@ -1,0 +1,30 @@
+﻿{
+  "name": "Omri personal charts pack",
+  "updated": "2026-09-12",
+  "charts": [
+    {
+      "title": "Your Song",
+      "artist": "Elton John",
+      "file": "charts/your_song.json",
+      "version": "1"
+    },
+    {
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "file": "charts/let_it_be.json",
+      "version": "1"
+    },
+    {
+      "title": "Wonderwall",
+      "artist": "Oasis",
+      "file": "charts/wonderwall.json",
+      "version": "1"
+    },
+    {
+      "title": "A Horse with No Name",
+      "artist": "America",
+      "file": "charts/horse_with_no_name.txt",
+      "version": "1"
+    }
+  ]
+}
