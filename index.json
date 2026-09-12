@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "Omri personal charts pack",
   "updated": "2026-09-12",
   "charts": [
@@ -24,6 +24,12 @@
       "title": "A Horse with No Name",
       "artist": "America",
       "file": "charts/horse_with_no_name.txt",
+      "version": "1"
+    },
+    {
+      "title": "The Boxer",
+      "artist": "Simon & Garfunkel",
+      "file": "charts/the_boxer.json",
       "version": "1"
     }
   ]
