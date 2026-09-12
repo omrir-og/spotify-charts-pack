@@ -7,7 +7,7 @@ Personal/friends chord pool for SpotifyChordOverlay.
 2. Add a row in `index.json` (`title`, `artist`, `file`, bump `version` when you edit).
 3. Push to GitHub (public repo is fine for personal use).
 4. In the app set `CHARTS_PACK_URL` to the raw base, e.g.
-   `https://raw.githubusercontent.com/YOUR_USER/spotify-charts-pack/main`
+   `https://raw.githubusercontent.com/YOUR_USER/spotify-charts-pack/master`
 5. On the phone: new/changed songs download automatically — no USB.
 
 ## Add a song
@@ -21,3 +21,4 @@ Personal/friends chord pool for SpotifyChordOverlay.
 ```
 
 Bump `version` whenever you change an existing file so devices pick up the update.
+
