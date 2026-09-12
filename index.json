@@ -31,6 +31,12 @@
       "artist": "Simon & Garfunkel",
       "file": "charts/the_boxer.json",
       "version": "1"
+    },
+    {
+      "title": "Dreams",
+      "artist": "Fleetwood Mac",
+      "file": "charts/dreams.json",
+      "version": "1"
     }
   ]
 }
